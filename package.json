@@ -1,0 +1,10 @@
+{
+  "name": "notion-weather-email",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A private daily Notion agenda and weather email for Google Apps Script.",
+  "author": "miao010625",
+  "license": "MIT",
+  "scripts": { "test": "node --test tests/邮件测试-Email-tests.cjs" },
+  "engines": { "node": ">=22" }
+}

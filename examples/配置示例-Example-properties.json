@@ -1,0 +1,13 @@
+{
+  "NOTION_TOKEN": "REPLACE_WITH_YOUR_PRIVATE_NOTION_TOKEN",
+  "NOTION_DATA_SOURCE_ID": "REPLACE_WITH_YOUR_DATA_SOURCE_UUID",
+  "EMAIL_TO": "reader@example.com",
+  "TIME_ZONE": "Etc/UTC",
+  "LATITUDE": "0",
+  "LONGITUDE": "0",
+  "LOCATION_LABEL": "Example location — replace with your city",
+  "NOTION_DATE_PROPERTY": "Date",
+  "NOTION_API_VERSION": "2026-03-11",
+  "SEND_HOUR": "8",
+  "SEND_ENABLED": "false"
+}
